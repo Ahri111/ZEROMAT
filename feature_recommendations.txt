@@ -1,0 +1,22 @@
+Query: What are the most important features for predicting bandgap?
+================================================================================
+AI Response:
+**RECOMMENDED FEATURES:**
+1. density - Higher density materials often correlate with larger bandgaps due to stronger bonding and reduced atomic separation.
+2. formation_energy_per_atom - Lower formation energies suggest more stable structures, which can influence the bandgap.
+3. volume - The unit cell volume affects the electronic structure and spacing of energy levels, impacting the bandgap.
+4. crystal_system - Different crystal systems can exhibit varying electronic properties and bandgap characteristics.
+5. is_metal - Metallic character directly indicates the absence of a bandgap, making this a crucial feature for predicting bandgap values.
+6. num_elements - The number of different elements can influence the complexity of the electronic structure and thus the bandgap.
+7. bulk_modulus - The bulk modulus relates to the material's compressibility, which can affect electronic properties and bandgap.
+8. shear_modulus - Similar to bulk modulus, shear modulus provides insights into the material's mechanical stability, which can influence electronic behavior.
+================================================================================
+Parsed Features:
+- density
+- formation_energy_per_atom
+- volume
+- crystal_system
+- is_metal
+- num_elements
+- bulk_modulus
+- shear_modulus

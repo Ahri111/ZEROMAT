@@ -1,0 +1,22 @@
+data/smallLLM.csv
+fixed_notebook.py
+Aug_large_metadata.json
+Aug_small_metadata.json
+Script (1).ipynb:Zone.Identifier
+fixed_notebokk.py
+demo.csv:Zone.Identifier
+aug_metadata.json
+demo_metadata.json
+data/demo.csv:Zone.Identifier
+data/small_temp_metadata.json
+data/small_temp.csv
+data/small_temp2.csv
+data/test.csv
+aug_metadata.json
+aug.csv
+demo.csv
+ZEROMAT/demo.csv:Zone.Identifier
+__pycache__/
+*.egg-info/
+.ipynb_checkpoints/
+.ipynb_checkpoints/
