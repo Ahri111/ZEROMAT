@@ -51,6 +51,13 @@ This repository demonstrates the superior performance and efficiency of TabPFN (
 pip install pymatgen==2025.6.14
 pip install mp-api==0.45.8
 pip install openai
+pip install tabpfn
+```
+
+or you can just use 
+
+```bash
+pip install -r requirements.txt
 ```
 
 ### Required API Keys
